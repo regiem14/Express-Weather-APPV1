@@ -1,0 +1,19 @@
+{
+  "name": "express-weather-appv1",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000E\u0000x\u0000p\u0000r\u0000e\u0000s\u0000s\u0000-\u0000W\u0000e\u0000a\u0000t\u0000h\u0000e\u0000r\u0000-\u0000A\u0000P\u0000P\u0000V\u00001\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/regiem14/Express-Weather-APPV1.git)"
+  },
+  "author": "Regie Marzan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
